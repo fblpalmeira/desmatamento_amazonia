@@ -1,8 +1,9 @@
 # desmatamento_amazonia
 
-Dados históricos de desmatamento na Amazônia Legal brasileira sob diferentes presidentes da República (de 1988 a 2021). Fonte: PRODES/INPE.
+Dados históricos de desmatamento na Amazônia Legal brasileira sob diferentes presidentes da República (de 1988 a 2021). Fonte: [PRODES/INPE](http://terrabrasilis.dpi.inpe.br).
 
-- Script .R
+- [Script `.R`]()
 
-- Database .csv
+- [Database `.csv`]()
 
+<img src="">
