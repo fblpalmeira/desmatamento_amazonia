@@ -6,4 +6,4 @@ Dados históricos de desmatamento na Amazônia Legal brasileira sob diferentes p
 
 - [Database `.csv`](https://github.com/fblpalmeira/desmatamento_amazonia/blob/main/data/amazonia_deforestation.csv)
 
-<img src="">
+<img src="https://github.com/fblpalmeira/desmatamento_amazonia/blob/main/data/amazonia_desmatamento2.png">
